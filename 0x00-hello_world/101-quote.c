@@ -2,10 +2,11 @@
 #include <unistd.h>
 
 /**
- * main -Entry Point
+ * main - prints exactly and that piece of art is useful
  *
- * Return: Always 1 
+ * Return: Always 0 (Success)
  */
+
 
 int main(void)
 {
